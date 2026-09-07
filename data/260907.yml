@@ -2,26 +2,26 @@ about:
   description: "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   license: NOASSERTION
   homepage: https://www.postgresql.org/
-  head: f836b68
+  head: 6168c65
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T06:15:00Z
+  collectedAt: 2026-09-07T18:22:51Z
 timeline:
   created: 2010-09-21
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 22032
+  star: 22040
   watcher: 577
-  fork: 5898
+  fork: 5900
   release: 0
   contributor: 124
   pullRequest: 0
   issue: 0
 language:
-  C: 51615489
+  C: 51618124
   PLpgSQL: 4614734
-  Perl: 3153423
+  Perl: 3156409
   Yacc: 740110
   Meson: 413809
   Python: 403817
@@ -38,7 +38,7 @@ language:
   DTrace: 3763
   PowerShell: 3497
   sed: 581
-totalBytes: 62259786
+totalBytes: 62265407
 recent:
   last30d:
     since: 2026-08-08
@@ -87,22 +87,22 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 5844
+    commit: 5845
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 65283
+  commit: 65284
 ---
 path: /home/runner/.x-repo/github.com/postgres/postgres
-collectedAt: 2026-09-07T06:17:13Z
+collectedAt: 2026-09-07T18:25:12Z
 loc:
   C:
-    code: 1007025
-    comments: 408593
-    blanks: 193112
+    code: 1007048
+    comments: 408627
+    blanks: 193118
     files: 1621
   Sql:
     code: 139571
@@ -115,9 +115,9 @@ loc:
     blanks: 18925
     files: 1021
   Perl:
-    code: 71591
-    comments: 16908
-    blanks: 14764
+    code: 71632
+    comments: 16931
+    blanks: 14773
     files: 394
   Happy:
     code: 25514
@@ -235,9 +235,9 @@ loc:
     blanks: 145
     files: 46
 total:
-  code: 1405048
-  comments: 557229
-  blanks: 271114
+  code: 1405112
+  comments: 557286
+  blanks: 271129
   files: 4886
 ---
 date: "2026-08-24"
@@ -328,7 +328,7 @@ checks:
       - 'Info: OSSFuzz integration found'
 ---
 eget:
-  collectedAt: 2026-09-07T06:17:18+00:00
+  collectedAt: 2026-09-07T18:25:22+00:00
   platform:
     darwin/arm64:
       name:  null
