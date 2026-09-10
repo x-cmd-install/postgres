@@ -1,24 +1,68 @@
 # postgres
 
+[中文版本](./README.cn.md)
+
 Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 
-- **Upstream**: <https://github.com/postgres/postgres>
-- **Homepage**: <https://www.postgresql.org/>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-09
-- **License**: NOASSERTION
-- **Stars**: 22056 · **Forks**: 5899 · **Open issues**: 0 · **Contributors**: 124
+![postgres](https://repo.x-cmd.io/postgres.svg)
 
-## Installation
+## Install
 
 ```sh
 x install postgres
 ```
 
-See <https://x-cmd.com/install/postgres> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/postgres/postgres>
+- **Homepage**: <https://www.postgresql.org/>
+- **License**: NOASSERTION
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T20:52:24Z._
+- **Stars**: 22,060 · **Forks**: 5,900 · **Open issues**: 0 · **Contributors**: 124
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 65321
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 241 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 784 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 3052 |
+
+## Code size
+
+Total: **1,399,114** lines of code across **3888** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 1,003,009 | 407,899 | 192,289 | 1616 |
+| Sql | 138,363 | 26,364 | 32,552 | 854 |
+| CHeader | 119,585 | 67,365 | 18,826 | 1013 |
+| Perl | 71,655 | 16,937 | 14,775 | 394 |
+| Happy | 24,931 | 0 | 2,970 | 11 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for postgres lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `postgres` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/postgres.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T06:21:29Z._
