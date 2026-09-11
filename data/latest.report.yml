@@ -2,12 +2,12 @@ about:
   description: "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   license: NOASSERTION
   homepage: https://www.postgresql.org/
-  head: 5624de9
+  head: 3a3524e
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:14:50Z
+  collectedAt: 2026-09-11T18:37:37Z
 timeline:
   created: 2010-09-21
   lastCommit: 2026-09-11
@@ -15,22 +15,22 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 22065
+  star: 22072
   watcher: 577
-  fork: 5907
+  fork: 5908
   release: 0
   contributor: 124
   pullRequest: 0
   issue: 0
 language:
-  C: 51434978
-  PLpgSQL: 4574022
+  C: 51436521
+  PLpgSQL: 4576889
   Perl: 3157426
-  Yacc: 723381
-  Meson: 413605
-  Python: 408565
-  Makefile: 387510
-  Lex: 242979
+  Yacc: 723319
+  Meson: 413628
+  Python: 411311
+  Makefile: 387570
+  Lex: 241225
   M4: 200181
   Ruby: 184057
   C++: 109147
@@ -42,7 +42,7 @@ language:
   DTrace: 3763
   PowerShell: 3497
   sed: 581
-totalBytes: 62030326
+totalBytes: 62035749
 recent:
   last30d:
     since: 2026-08-12
@@ -51,7 +51,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 252
+    commit: 261
   last60d:
     since: 2026-07-13
     release: 0
@@ -59,7 +59,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 535
+    commit: 544
   last90d:
     since: 2026-06-13
     release: 0
@@ -67,7 +67,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 795
+    commit: 804
   last180d:
     since: 2026-03-15
     release: 0
@@ -75,7 +75,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1639
+    commit: 1648
   last360d:
     since: 2025-09-16
     release: 0
@@ -83,7 +83,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3063
+    commit: 3072
   last720d:
     since: 2024-09-21
     release: 0
@@ -91,31 +91,31 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 5860
+    commit: 5870
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 65334
+  commit: 65344
 ---
 path: /home/runner/.x-repo/github.com/postgres/postgres
-collectedAt: 2026-09-11T06:17:54Z
+collectedAt: 2026-09-11T18:39:57Z
 loc:
   C:
-    code: 1002994
-    comments: 407883
-    blanks: 192280
+    code: 1003043
+    comments: 407926
+    blanks: 192284
     files: 1616
   Sql:
-    code: 138372
-    comments: 26366
-    blanks: 32553
+    code: 138343
+    comments: 26377
+    blanks: 32539
     files: 854
   CHeader:
-    code: 119592
-    comments: 67370
+    code: 119588
+    comments: 67368
     blanks: 18828
     files: 1013
   Perl:
@@ -124,24 +124,24 @@ loc:
     blanks: 14775
     files: 394
   Happy:
-    code: 24931
+    code: 24928
     comments: 0
     blanks: 2970
     files: 11
   Meson:
-    code: 12909
+    code: 12910
     comments: 1336
     blanks: 2266
     files: 307
   RPMSpecfile:
-    code: 10433
-    comments: 2283
-    blanks: 1684
-    files: 171
+    code: 10507
+    comments: 2295
+    blanks: 1693
+    files: 172
   Makefile:
-    code: 8513
+    code: 8515
     comments: 2350
-    blanks: 2314
+    blanks: 2315
     files: 339
   XSL:
     code: 1884
@@ -239,10 +239,10 @@ loc:
     blanks: 145
     files: 44
 total:
-  code: 1399133
-  comments: 555979
+  code: 1399223
+  comments: 556043
   blanks: 269921
-  files: 4870
+  files: 4871
 ---
 date: "2026-09-07"
 repo:
