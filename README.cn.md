@@ -4,7 +4,7 @@
 
 Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 
-[![x-cmd/install — postgres Code Quality Monitoring Repo Card](https://repo.x-cmd.io/postgres.svg?lang=zh)](https://x-cmd.com/install/postgres)
+[![x-cmd/install — postgres Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/postgres.svg?lang=zh)](https://x-cmd.com/install/postgres)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install postgres
 
 ## 代码洞察
 
-合计: **1,399,890** 行代码（覆盖前 5 种语言、共 **3902** 个文件）。
+合计: **1,399,931** 行代码（覆盖前 5 种语言、共 **3902** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 1,003,269 | 408,355 | 192,318 | 1617 |
+| C | 1,003,309 | 408,392 | 192,319 | 1617 |
 | Sql | 137,202 | 26,200 | 32,288 | 853 |
-| CHeader | 119,698 | 67,477 | 18,873 | 1014 |
+| CHeader | 119,697 | 67,477 | 18,873 | 1014 |
 | Perl | 73,448 | 17,514 | 15,200 | 407 |
-| Happy | 24,839 | 0 | 2,964 | 11 |
+| Happy | 24,841 | 0 | 2,964 | 11 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,22 +42,22 @@ x install postgres
 
 ## 流行度
 
-- **Star**: 22,181 · **Fork**: 5,921 · **开放 issue**: 0 · **贡献者**: 124
+- **Star**: 22,181 · **Fork**: 5,919 · **开放 issue**: 0 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 65439
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 65449
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 202 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 520 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 801 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 1512 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 3083 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 5905 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 211 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 529 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 810 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 1521 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 3092 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 5907 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ postgres 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:28:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:45:37Z._
