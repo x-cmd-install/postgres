@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,718 · **Forks**: 6,095 · **Open issues**: 0 · **Contributors**: 129
+- **Stars**: 22,737 · **Forks**: 6,095 · **Open issues**: 0 · **Contributors**: 129
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 267 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 530 |
-| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 823 |
-| last180d | 2026-05-11 | 0 | 0 | 0 | 0 | 0 | 1489 |
-| 360d | 2025-11-12 | 0 | 0 | 0 | 0 | 0 | 3150 |
-| last720d | 2024-11-17 | 0 | 0 | 0 | 0 | 0 | 6014 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 210 |
+| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 446 |
+| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 735 |
+| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 1450 |
+| 360d | 2025-11-13 | 0 | 0 | 0 | 0 | 0 | 3095 |
+| last720d | 2024-11-18 | 0 | 0 | 0 | 0 | 0 | 6014 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for postgres lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:17:38Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:26:01Z._
