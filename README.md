@@ -14,13 +14,13 @@ x install postgres
 
 ## Code insight
 
-Total: **1,412,889** lines of code across **3922** files in the top 5 languages.
+Total: **1,413,172** lines of code across **3922** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,007,205 | 411,484 | 193,143 | 1618 |
-| Sql | 142,417 | 27,345 | 33,148 | 861 |
-| CHeader | 120,194 | 68,014 | 18,963 | 1015 |
+| C | 1,007,398 | 411,619 | 193,188 | 1618 |
+| Sql | 142,492 | 27,363 | 33,166 | 861 |
+| CHeader | 120,209 | 68,015 | 18,963 | 1015 |
 | Perl | 75,726 | 17,937 | 15,554 | 417 |
 | Happy | 24,842 | 0 | 2,964 | 11 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,843 · **Forks**: 6,114 · **Open issues**: 0 · **Contributors**: 133
+- **Stars**: 22,860 · **Forks**: 6,114 · **Open issues**: 0 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 66031
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 66033
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 309 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 548 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 798 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 1580 |
-| 360d | 2025-11-21 | 0 | 0 | 0 | 0 | 0 | 3184 |
-| last720d | 2024-11-26 | 0 | 0 | 0 | 0 | 0 | 6110 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 310 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 549 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 799 |
+| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 1581 |
+| 360d | 2025-11-22 | 0 | 0 | 0 | 0 | 0 | 3185 |
+| last720d | 2024-11-27 | 0 | 0 | 0 | 0 | 0 | 6103 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for postgres lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:45:56Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:24:04Z._
