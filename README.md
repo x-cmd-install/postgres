@@ -14,14 +14,14 @@ x install postgres
 
 ## Code insight
 
-Total: **1,413,515** lines of code across **3923** files in the top 5 languages.
+Total: **1,413,982** lines of code across **3924** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,007,525 | 411,690 | 193,200 | 1618 |
-| Sql | 142,555 | 27,374 | 33,178 | 861 |
-| CHeader | 120,210 | 68,016 | 18,963 | 1015 |
-| Perl | 75,877 | 17,967 | 15,578 | 418 |
+| C | 1,007,742 | 411,790 | 193,227 | 1618 |
+| Sql | 142,657 | 27,388 | 33,196 | 861 |
+| CHeader | 120,218 | 68,020 | 18,963 | 1015 |
+| Perl | 76,015 | 17,999 | 15,603 | 419 |
 | Happy | 24,842 | 0 | 2,964 | 11 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,873 · **Forks**: 6,114 · **Open issues**: 0 · **Contributors**: 135
+- **Stars**: 22,892 · **Forks**: 6,121 · **Open issues**: 0 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 66062
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 66084
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 338 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 577 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 827 |
-| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 1609 |
-| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 3213 |
-| last720d | 2024-11-29 | 0 | 0 | 0 | 0 | 0 | 6102 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 360 |
+| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 599 |
+| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 849 |
+| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 1631 |
+| 360d | 2025-11-25 | 0 | 0 | 0 | 0 | 0 | 3235 |
+| last720d | 2024-11-30 | 0 | 0 | 0 | 0 | 0 | 6119 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for postgres lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:38:37Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:21:22Z._
