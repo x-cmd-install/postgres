@@ -2,30 +2,30 @@ about:
   description: "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   license: NOASSERTION
   homepage: https://www.postgresql.org/
-  head: e347dae
+  head: e87b024
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:30:23Z
+  collectedAt: 2026-11-28T09:37:46Z
 timeline:
   created: 2010-09-21
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 22962
-  watcher: 583
-  fork: 6080
+  star: 22972
+  watcher: 581
+  fork: 6086
   release: 0
   contributor: 135
   pullRequest: 0
   issue: 0
 language:
-  C: 51861232
+  C: 51864323
   PLpgSQL: 4780335
-  Perl: 3392612
+  Perl: 3396096
   Yacc: 720755
   Python: 459640
   Meson: 417329
@@ -43,85 +43,85 @@ language:
   PowerShell: 3497
   Dockerfile: 3427
   sed: 581
-totalBytes: 62946409
+totalBytes: 62952984
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 368
+    commit: 376
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 619
+    commit: 627
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 865
+    commit: 873
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1644
+    commit: 1652
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3249
+    commit: 3257
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 6149
+    commit: 6153
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 66152
+  commit: 66160
 ---
 path: /home/runner/.x-repo/github.com/postgres/postgres
-collectedAt: 2026-11-27T10:32:41Z
+collectedAt: 2026-11-28T09:40:05Z
 loc:
   C:
-    code: 1008303
-    comments: 412204
-    blanks: 193327
+    code: 1008345
+    comments: 412237
+    blanks: 193331
     files: 1618
   Sql:
-    code: 142843
-    comments: 27444
-    blanks: 33222
+    code: 142853
+    comments: 27446
+    blanks: 33223
     files: 861
   CHeader:
-    code: 120227
+    code: 120228
     comments: 68021
     blanks: 18963
     files: 1015
   Perl:
-    code: 76384
-    comments: 18065
+    code: 76388
+    comments: 18066
     blanks: 15658
     files: 419
   Happy:
@@ -235,9 +235,9 @@ loc:
     blanks: 146
     files: 42
 total:
-  code: 1415320
-  comments: 563490
-  blanks: 272796
+  code: 1415377
+  comments: 563526
+  blanks: 272801
   files: 4922
 ---
 date: "2026-11-23"
